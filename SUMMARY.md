@@ -1,6 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Why](why.md)
-* [Hiii](hiii.md)
+* [Why & What](why.md)
+* [How \(mechanism\)](how.md)
 
